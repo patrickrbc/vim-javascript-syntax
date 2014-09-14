@@ -1,5 +1,9 @@
 # Enhanced JavaScript Syntax for Vim
 
+This forked version of jelera's adds pangloss's indenting. Why? because vim-jsx requires it.
+While this is an awesome syntax highlighting plugin, the lack of indenting bugged me.
+I was using the recommended indenting plugin below, but that would not work with vim-jsx, which adds xml indenting to javascript files loaded with jsx params.
+
 ### Credits
 - Zhao Yi, Claudio Fleiner, Scott Shattuck (This file is based on their hard work)
 - gumnos (From the #vim IRC Channel in Freenode) (Who helped me figured out the
